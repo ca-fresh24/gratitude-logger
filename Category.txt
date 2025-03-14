@@ -1,0 +1,10 @@
+01_God_purpose
+02_knowledge_wisdom
+03_money_finance
+04_home_family
+05_biz_work
+06_community_contribution
+07_health_fitness
+08_friends_social
+09_play_relaxation_self care
+10_love_romance
